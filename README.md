@@ -28,7 +28,9 @@ Udemy Pathfinder is a machine learning-powered course recommendation system desi
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Change to your desired directory where you want to clone the project.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Execute the following command to clone the repository: `git clone https://github.com/anshsaxena1703/udemy-pathfinder.git`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Execute the following command to clone the repository: 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `git clone https://github.com/anshsaxena1703/udemy-pathfinder.git`
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Navigate into the cloned project directory: `cd udemy-pathfinder`
 
