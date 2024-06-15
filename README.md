@@ -1,8 +1,8 @@
-# Udemy-Pathfinder
+# Udemy-Pathfinder - [Demo Video](https://drive.google.com/file/d/13QpWdA77LHyvy5g1d_7CG9D1m8XB5Fvp/view?usp=drive_link)
 ## Project Description
 Udemy Pathfinder is a machine learning-powered course recommendation system designed to assist users in discovering the best Udemy courses tailored to their interests. The project involves the following key steps:
 
-**Data Collection:** The dataset was sourced from Kaggle, containing comprehensive details about various Udemy courses.
+**Data Collection:** The dataset was sourced from Kaggle, containing comprehensive details about various 5000 Udemy courses.
 
 **Data Preprocessing:** Important attributes such as course name, overview, and instructor were combined into a tag column to create a rich text representation for each course.
 
